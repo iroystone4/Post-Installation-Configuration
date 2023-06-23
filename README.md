@@ -66,6 +66,7 @@ In the admin dashboard, look for "Agents" and click on the "Agent" option. To cr
 Log into "Agent" panel, click on "Users" then "Add User". Fill in the necessary details for the user, such as name and email address. These details will be used to identify and communicate with the user.
  
 
+
 <a href="https://imgur.com/d0jg2UR"><img src="https://i.imgur.com/d0jg2UR.png" title="source: imgur.com" /></a>
 Admin Panel -> Manage -> Help Topics
 
