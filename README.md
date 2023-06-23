@@ -67,5 +67,9 @@ Log into "Agent" panel, click on "Users" then "Add User". Fill in the necessary 
  
 
 <a href="https://imgur.com/d0jg2UR"><img src="https://i.imgur.com/d0jg2UR.png" title="source: imgur.com" /></a>
+Admin Panel -> Manage -> Help Topics
 
+
+
+<a href="https://imgur.com/lMXk7xY"><img src="https://i.imgur.com/lMXk7xY.png" title="source: imgur.com" /></a>
 SLA Plans can be created by going to the Admin Panel > Manage > SLA Plans. Click on the top right of the table to “Add New SLA Plan.” Once created, SLA Plans can be determined for Departments, Ticket Filters, and Help Topics. There is also a System Default SLA Plan which can be chosen by going to Admin Panel > Settings > Tickets.
