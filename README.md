@@ -56,11 +56,19 @@ In the admin dashboard, look for "Agents" and click on the "Teams" option. This 
 
 <a href="https://imgur.com/mAllov8"><img src="https://i.imgur.com/mAllov8.png" title="source: imgur.com" /></a>
 
-In the admin dashboard, look for "Agents" and click on the "Agent" option. To create a new agent, click on the "Add New Agent" button. Assign the agent to a department by selecting the appropriate department from "Department" option on the menu. This will associate the agent with the chosen department, allowing them to handle tickets related to that department.
+In the admin dashboard, look for "Agents" and click on the "Agent" option. To create a new agent, click on the "Add New Agent" button. Assign the agent to a department then select the appropriate "Department" option on the menu. This will associate the agent with the chosen department, allowing them to handle tickets related to that department.
 
 
 
 <a href="https://imgur.com/ubBm5yc"><img src="https://i.imgur.com/ubBm5yc.png" title="source: imgur.com" /></a>
+
+
+Log into "Agent" panel, click on "Users" then "Add User". Fill in the necessary details for the user, such as name and email address. These details will be used to identify and communicate with the user.
+ 
+
+
+
+
 
 
 SLA Plans can be created by going to the Admin Panel > Manage > SLA Plans. Click on the top right of the table to “Add New SLA Plan.” Once created, SLA Plans can be determined for Departments, Ticket Filters, and Help Topics. There is also a System Default SLA Plan which can be chosen by going to Admin Panel > Settings > Tickets.
